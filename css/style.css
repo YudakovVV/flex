@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+.heder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block {
+  display: flex;
+  padding: 10px;
+  height: 400px;
+  align-items: center;
+}
+.item {
+  border: 1px solid;
+  padding: 5px;
+}
